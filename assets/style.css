@@ -8,3 +8,6 @@ h1 { margin: 0 0 1rem; font-size: clamp(2rem, 7vw, 3.5rem); font-weight: normal;
 .tagline { margin: 0 0 1.25rem; font-size: clamp(1rem, 3vw, 1.25rem); font-style: italic; }
 .status { margin: 0; font-size: 0.8rem; letter-spacing: 0.15em; text-transform: uppercase; color: #888; }
 .place { margin: 0 0 2.5rem; font-size: 0.9rem; color: #aaa; }
+.contact { margin: 1.25rem 0 0; font-size: 0.95rem; }
+.contact a { color: #d8d8d8; text-decoration: none; border-bottom: 1px solid #666; }
+.contact a:hover { border-color: #f2f2f2; }
